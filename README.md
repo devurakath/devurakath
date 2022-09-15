@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @devurakath
 - 👀 I’m interested in web 3! I believe web3 could change the world!
 - 🌱 I’m currently learning python
-- 📫 How to reach me via twitter. Look up @devurakath
